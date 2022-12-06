@@ -6,3 +6,7 @@ Day 1 and already behind.
 Day 2 and 3 up.  Code is super messy.
 
 Day 4 more sets, abuse memory and look at intersections and differences
+
+Day 5 more Sets,
+
+Day 6 deques and sets
